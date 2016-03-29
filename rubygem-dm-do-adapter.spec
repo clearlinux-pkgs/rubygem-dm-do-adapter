@@ -4,7 +4,7 @@
 #
 Name     : rubygem-dm-do-adapter
 Version  : 1.2.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/dm-do-adapter-1.2.0.gem
 Source0  : https://rubygems.org/downloads/dm-do-adapter-1.2.0.gem
 Summary  : No detailed summary available
@@ -50,45 +50,16 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/dm-do-adapter-1.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Article/cdesc-Article.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Author/cdesc-Author.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/SQL/cdesc-SQL.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/cdesc-DataObjectsAdapter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/close_connection-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/create-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/delete-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/execute-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/normalized_uri-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/open_connection-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/read-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/select-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/select_field-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/select_fields-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/update-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/DataObjectsAdapter/with_connection-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/Adapters/cdesc-Adapters.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataMapper/cdesc-DataMapper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/DataObjects/cdesc-DataObjects.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Object/cdesc-Object.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Object/log_output-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Object/reset_log-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Object/supports_default_values%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Object/supports_returning%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/Publisher/cdesc-Publisher.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-do-adapter-1.2.0/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/VERSION
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/dm-do-adapter.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/lib/dm-do-adapter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/lib/dm-do-adapter/adapter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/lib/dm-do-adapter/spec/shared_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/tasks/yard.rake
-/usr/lib64/ruby/gems/2.2.0/gems/dm-do-adapter-1.2.0/tasks/yardstick.rake
-/usr/lib64/ruby/gems/2.2.0/specifications/dm-do-adapter-1.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/dm-do-adapter-1.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/VERSION
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/dm-do-adapter.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/lib/dm-do-adapter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/lib/dm-do-adapter/adapter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/lib/dm-do-adapter/spec/shared_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/tasks/yard.rake
+/usr/lib64/ruby/gems/2.3.0/gems/dm-do-adapter-1.2.0/tasks/yardstick.rake
+/usr/lib64/ruby/gems/2.3.0/specifications/dm-do-adapter-1.2.0.gemspec
